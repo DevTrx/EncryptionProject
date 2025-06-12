@@ -4,10 +4,10 @@ A lightweight Python-based file encryption tool that lets users securely encrypt
 
 ##What It Does
 
-- 🔑 Generates a secure symmetric encryption key (Fernet/AES-128 under the hood)
-- 🔒 Encrypts any file into an unreadable `.encrypted` format
-- 🔓 Decrypts files back to their original format using the saved key
-- 🖥️ Command-line interface with clear prompts for beginners
+-  Generates a secure symmetric encryption key (Fernet/AES-128 under the hood)
+- Encrypts any file into an unreadable `.encrypted` format
+- Decrypts files back to their original format using the saved key
+- Command-line interface with clear prompts for beginners
 
 ---
 
