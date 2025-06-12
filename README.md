@@ -1,8 +1,8 @@
-# 🔐 Secure File Vault
+# Secure File Vault
 
 A lightweight Python-based file encryption tool that lets users securely encrypt and decrypt files using AES (via the `cryptography` library). Designed for educational and personal security projects.
 
-## 🧠 What It Does
+##What It Does
 
 - 🔑 Generates a secure symmetric encryption key (Fernet/AES-128 under the hood)
 - 🔒 Encrypts any file into an unreadable `.encrypted` format
@@ -11,7 +11,7 @@ A lightweight Python-based file encryption tool that lets users securely encrypt
 
 ---
 
-## 💡 Why I Built It
+##Why I Built It
 
 I created this project to strengthen my understanding of:
 - Encryption basics and key management
