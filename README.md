@@ -19,13 +19,3 @@ I created this project to strengthen my understanding of:
 - Python scripting for cybersecurity tools
 
 This project serves as a foundation for more advanced encryption projects and demonstrates core knowledge of secure file handling.
-
----
-
-## 🛠️ How to Use
-
-### 1. Clone the Repo
-
-```bash
-git clone https://github.com/your-username/secure-file-vault.git
-cd secure-file-vault
